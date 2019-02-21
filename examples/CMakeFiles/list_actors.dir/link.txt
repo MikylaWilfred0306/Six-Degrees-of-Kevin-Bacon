@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14   CMakeFiles/list_actors.dir/list_actors.cpp.o  -o list_actors -rdynamic 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14   CMakeFiles/list_movies.dir/list_movies.cpp.o  -o list_movies -rdynamic 

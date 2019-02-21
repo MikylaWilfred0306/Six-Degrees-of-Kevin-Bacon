@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14   CMakeFiles/list_acts_in.dir/list_acts_in.cpp.o  -o list_acts_in -rdynamic 

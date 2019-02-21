@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/actor_parser.cpp
+actor_parser.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/actor_parser.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/actor_parser.hpp
+cassert
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+stdexcept
+-
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/movie_parser.cpp
+movie_parser.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/movie_parser.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/movie_parser.hpp
+cassert
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+stdexcept
+-
+

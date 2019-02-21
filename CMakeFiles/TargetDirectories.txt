@@ -1,0 +1,14 @@
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/CMakeFiles/edit_cache.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/CMakeFiles/rebuild_cache.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/CMakeFiles/edit_cache.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/CMakeFiles/rebuild_cache.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/imdb/CMakeFiles/imdb.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/CMakeFiles/rebuild_cache.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/CMakeFiles/edit_cache.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/CMakeFiles/db.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/examples/CMakeFiles/edit_cache.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/examples/CMakeFiles/rebuild_cache.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/examples/CMakeFiles/list_movies.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/examples/CMakeFiles/list_actors.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/examples/CMakeFiles/list_acts_in.dir
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/examples/CMakeFiles/list_released_in.dir

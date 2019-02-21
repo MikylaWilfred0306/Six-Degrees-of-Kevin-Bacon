@@ -1,0 +1,94 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/actors.cpp
+actors.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/actors.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/actors.hpp
+table.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/table.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/db.cpp
+db.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/db.hpp
+imdb/actor_parser.hpp
+-
+imdb/movie_parser.hpp
+-
+cassert
+-
+iostream
+-
+queue
+-
+vector
+-
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/db.hpp
+movies.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/movies.hpp
+actors.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/actors.hpp
+roles.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/roles.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/movies.cpp
+movies.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/movies.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/movies.hpp
+table.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/table.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/roles.cpp
+roles.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/roles.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/roles.hpp
+table.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/table.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/table.cpp
+table.hpp
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/table.hpp
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/db/table.hpp
+cstring
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+imdb/actor_parser.hpp
+cassert
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+stdexcept
+-
+
+imdb/movie_parser.hpp
+cassert
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+stdexcept
+-
+

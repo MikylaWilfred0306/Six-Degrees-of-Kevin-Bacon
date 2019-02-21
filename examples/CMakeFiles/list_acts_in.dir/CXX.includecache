@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mikyla/Documents/Classes/Data Structures/imdb-master/examples/list_acts_in.cpp
+imdb/actor_parser.hpp
+-
+iostream
+-
+
+imdb/actor_parser.hpp
+cassert
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+stdexcept
+-
+
